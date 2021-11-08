@@ -1,0 +1,4 @@
+com\mycompany\crudesayunosv2\Controlador.class
+models\Pedidos.class
+com\mycompany\crudesayunosv2\HibernateUtil.class
+models\Productos.class
